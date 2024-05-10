@@ -1,0 +1,39 @@
+{
+  "Gry planszowe":[
+  {
+    "nazwa": "Brass: Lanchasire",
+    "minimalnywiek": 15,
+    "minliczbagraczy": 4,
+    "maxliczbagraczy": 8,
+    "czasgrania": 120
+  },
+  {
+    "nazwa": "Leśne rozdanie",
+    "minimalnywiek": 6,
+    "minliczbagraczy": 2,
+    "maxliczbagraczy": 6,
+    "czasgrania": 15
+  },
+  {
+    "nazwa": "Wiek cudów",
+    "minimalnywiek": 12,
+    "minliczbagraczy": 2,
+    "maxliczbagraczy": 4,
+    "czasgrania": 30
+  },
+  {
+    "nazwa": "Poker",
+    "minimalnywiek": 18,
+    "minliczbagraczy": 2,
+    "maxliczbagraczy": 8,
+    "czasgrania": 180
+  },
+  {
+    "nazwa": "Star Wars: Shatterpoint",
+    "minimalnywiek": 16,
+    "minliczbagraczy": 4,
+    "maxliczbagraczy": 8,
+    "czasgrania": 100
+  }
+  ]
+}
