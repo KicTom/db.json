@@ -1,39 +1,40 @@
 {
-  "GryPlanszowe":[
+  "GryKomputerowe":[
   {
-    "nazwa": "Brass: Lanchasire",
-    "minimalnywiek": 15,
-    "minliczbagraczy": 4,
-    "maxliczbagraczy": 8,
-    "czasgrania": 120
-  },
-  {
-    "nazwa": "Leśne rozdanie",
-    "minimalnywiek": 6,
-    "minliczbagraczy": 2,
-    "maxliczbagraczy": 6,
-    "czasgrania": 15
-  },
-  {
-    "nazwa": "Wiek cudów",
-    "minimalnywiek": 12,
-    "minliczbagraczy": 2,
-    "maxliczbagraczy": 4,
-    "czasgrania": 30
-  },
-  {
-    "nazwa": "Poker",
+    "nazwa": "GTA V",
     "minimalnywiek": 18,
-    "minliczbagraczy": 2,
-    "maxliczbagraczy": 8,
-    "czasgrania": 180
+    "ocenagry": 9,
+    "rodzajgry": "symulator"
   },
   {
-    "nazwa": "Star Wars: Shatterpoint",
+    "nazwa": "GTA VI",
+    "minimalnywiek": 18,
+    "ocenagry": 5,
+    "rodzajgry": "unreal"
+  },
+  {
+    "nazwa": "Titanfall 2",
     "minimalnywiek": 16,
-    "minliczbagraczy": 4,
-    "maxliczbagraczy": 8,
-    "czasgrania": 100
+    "ocenagry": 6,
+    "rodzajgry": "fabularna"
+  },
+  {
+    "nazwa": "Gothic III",
+    "minimalnywiek": 12,
+    "ocenagry": 10,
+    "rodzajgry": "RPG"
+  },
+  {
+    "nazwa": "CS2",
+    "minimalnywiek": 2,
+    "ocenagry": 5,
+    "rodzajgry": "FPS"
+  },
+  {
+    "nazwa": "Valorant",
+    "minimalnywiek": 1,
+    "ocenagry": 4,
+    "rodzajgry": "FPS (bullshit)"
   }
   ]
 }
